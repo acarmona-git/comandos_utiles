@@ -1,3 +1,9 @@
+Buscar archivo o carpeta en un servidor
+find . -type f -name archivo*
+find . -type d -name carpeta*
+
+
+
 Ver particiones en AIX
 df -g 
 
